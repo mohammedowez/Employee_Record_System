@@ -2,7 +2,7 @@
 
 
 # Folder Structure
-|---------------------|
+
 |Folder | Description |
 | ----- |------------- |
 | inc  | All header files |
