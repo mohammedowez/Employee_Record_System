@@ -86,4 +86,9 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |NH08	|There should be no data breach or leakage and the data should be safe|	Future |
 |----|------------------------------------------------------|-------------------------|
 # Low Level Requirements
-in detailed here
+|ID	|Description	|ERS-ID	|Status|
+LR01	New Records shall be added by providing all the asked information and the roll no. should be unique or else student record should not be accepted	HR01	Implemented
+LR02	If user searches for an invalid Roll no. ,"no record found!" message should be displayed	HR04	Implemented
+LR03	To modify a record, user needs to search by name, if no record found, print the message"no record found" else if modification is successful then print "modification successful"	HR02	Implemented
+LR04	User needs to search by name for the student to delete the record. If no record is found then display the message "no record found"	HR03	Implemented
+LR05	when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). If incorrect input is given by user then, print the message "selected option unavailable"	HRxx	Implemented
