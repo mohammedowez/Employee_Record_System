@@ -94,11 +94,12 @@ should be unique or else student record should not be accepted
 |LR02	 |If user searches for an invalid Id. ,"no record found!" message should be displayed	 |HR04	|Implemented|
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR03	 |To modify a record, user needs to search by name, if no record found, print the message"no record found" |HR02	|Implemented|
-        | else if modification is successful then print "modification successful"|
+|        | else if modification is successful then print "modification successful"|                                                     |
  |--------|-------------------------------------|------------------------------|-----------------------------|      
 |LR04	 |User needs to search by name for the Employee to delete the record. |                 |  HR03	|Implemented |
-        |If no record is found then display the message "no record found"	|
+|        |If no record is found then display the message "no record found"	|                                        |
 |--------|-------------------------------------|------------------------------|-----------------------------|
+
 |LR05	  |when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). | HRxx	|Implemented|
-         |If incorrect input is given by user then, print the message "selected option unavailable"|	
+|         |If incorrect input is given by user then, print the message "selected option unavailable"|                                      |	
 |--------|-------------------------------------|------------------------------|-----------------------------|
