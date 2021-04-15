@@ -67,7 +67,24 @@ The problem was known because of the inconvinience it caused to staff, managemen
 
 # Detail Requirements
 # High Level Requirements
-in detailed here
+|ID  | Description                                         |                         |
+|----|------------------------------------------------------|-------------------------|
+|NH01	|The admin should be able to add new student records |	Technical-Implemented  |
+|----|------------------------------------------------------|-------------------------|
+|NH 02	|The admin should be able to update the student records	|Technical-Implemented  |
+|----|------------------------------------------------------|-------------------------|
+|NH03	|The admin should be able to delete the student records	|Technical-Implemented  |
+|----|------------------------------------------------------|-------------------------|
+|NH04	|The admin should be able to read the student records	|Technical-Implemented  |
+|----|------------------------------------------------------|-------------------------|
+|NH05	|The admin should be able to save the student record to file|	Technical-Implemented |
+|----|------------------------------------------------------|-------------------------|
+|NH06	|The admin shoould be able to read student data from the file|	Technical-Implemented |
+|----|------------------------------------------------------|-------------------------|
+|NH07	|There should be no data loss in case of system failure	Future|
+|----|------------------------------------------------------|-------------------------|
+|NH08	|There should be no data breach or leakage and the data should be safe|	Future |
+|----|------------------------------------------------------|-------------------------|
 
 # Low Level Requirements
 in detailed here
