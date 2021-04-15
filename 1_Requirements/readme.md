@@ -40,7 +40,8 @@ The purpose of this document is to describe the functionality and specifications
 **asdgasd**
 
 # SOWT Analysis
-![hr_swot_analysis_for_employee_evaluation_Slide01](https://user-images.githubusercontent.com/59692344/114859161-fe19de80-9e07-11eb-9946-dfad3bdd945c.jpg)
+![Capturdde](https://user-images.githubusercontent.com/59692344/114859723-c3fd0c80-9e08-11eb-9e7a-8d5f146fde1d.PNG)
+
 
 
 # 4W's 1'H
