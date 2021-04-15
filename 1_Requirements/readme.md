@@ -92,11 +92,10 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR02	 |If user searches for an invalid Id. ,"no record found!" message should be displayed	 |HR04	|Implemented|
 |--------|-------------------------------------|------------------------------|-----------------------------|
-|LR03	 |To modify a record, user needs to search by name, if no record found,  |HR02	     |Implemented  |                                                   
+|LR03	 |To modify a record, user needs to search by name, if no record found,  |HR02	     |Implemented  |                                             
 |--------|-------------------------------------|------------------------------|-----------------------------|      
-|LR04	 |User needs to search by name for the Employee to delete the record.                |  HR03	|Implemented |                                            
+|LR04	 |User needs to search by name for the Employee to delete the record.                |  HR03	|Implemented |                    
 |--------|-------------------------------------|------------------------------|-----------------------------|
-
 |LR05	  |when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). | HRxx	|Implemented|
                                     
 
