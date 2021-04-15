@@ -13,6 +13,24 @@ People have different personalities and work ethics .So in order to manage their
 
 Automated Employee Record System helps to avoid those issues. Employee Record System refers to a number of efficient automated systems designed for recording student data and perform functions like display, modify, delete, update save etc. Some Student Record Systems are made for general purpose while some Student Record System are made for specific purpose like exam performance records, progress records etc.
 
+
+# Benefit
+It is cost effective as the user control the web application himself and does not go for
+professional service.
+
+It saves time as it speeds up every aspect of the employee database management and
+payroll process with a range of automated features.
+
+It is secure as the employee database and the payroll process is managed by the admin
+in house rather than sending private information to a third party.
+
+Validating procedures and checks restrict user from making mistakes.
+
+The software is easy to use and is user friendly so no expertise is required.
+
+The calculations are automated so no chance of error.
+
+
 # Cost and Features
 
 
