@@ -40,25 +40,29 @@ The purpose of this document is to describe the functionality and specifications
 **asdgasd**
 
 # SOWT Analysis
+![hr_swot_analysis_for_employee_evaluation_Slide01](https://user-images.githubusercontent.com/59692344/114859161-fe19de80-9e07-11eb-9946-dfad3bdd945c.jpg)
 
 
 # 4W's 1'H
-that goes here
+
 
 # Who
-who?
+All the details of employee is available admin can access it.
+
+Small scale to large scale Management system.
 
 # What
-waht!!
+
+it will take more time using pen and paper for company has more employees
 
 # Where
-where?
+The problem is present in this globe.
 
 # When
-when?
+The problem has been around for decades but it was the only option in absence of computers and automated systems but advancement in technologies and its availability at most places has reduced the problem to greater extent.
 
 # How
-gomma how!!
+The problem was known because of the inconvinience it caused to staff, management and other people related to it. If not solved, it can cause a large technology gap which will eventually cause a delay in coping up with the new emerging automated systems along with other existing issues of the manual systems.
 
 # Detail Requirements
 # High Level Requirements
