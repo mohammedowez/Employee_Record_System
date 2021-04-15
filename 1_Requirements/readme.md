@@ -89,17 +89,15 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |ID	  |Description	                   |HLR-ID                     |                      Status|
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR01	 |New Records shall be added by providing all the asked Employee Details.|  HR01	  | Implemented |
-should be unique or else student record should not be accepted	
+
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR02	 |If user searches for an invalid Id. ,"no record found!" message should be displayed	 |HR04	|Implemented|
 |--------|-------------------------------------|------------------------------|-----------------------------|
-|LR03	 |To modify a record, user needs to search by name, if no record found, print the message"no record found" |HR02	|Implemented|
-|        | else if modification is successful then print "modification successful"|                                                     |
+|LR03	 |To modify a record, user needs to search by name, if no record found, print the message"no record found" |HR02	|Implemented                                                     
  |--------|-------------------------------------|------------------------------|-----------------------------|      
-|LR04	 |User needs to search by name for the Employee to delete the record. |                 |  HR03	|Implemented |
-|        |If no record is found then display the message "no record found"	|                                        |
+|LR04	 |User needs to search by name for the Employee to delete the record. |                 |  HR03	|Implemented |                                             |
 |--------|-------------------------------------|------------------------------|-----------------------------|
 
 |LR05	  |when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). | HRxx	|Implemented|
-|         If incorrect input is given by user then, print the message "selected option unavailable"                                    |	
+                                    
 |--------|-------------------------------------|------------------------------|-----------------------------|
