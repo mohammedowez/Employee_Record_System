@@ -101,5 +101,5 @@ should be unique or else student record should not be accepted
 |--------|-------------------------------------|------------------------------|-----------------------------|
 
 |LR05	  |when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). | HRxx	|Implemented|
-|         |If incorrect input is given by user then, print the message "selected option unavailable"|                                      |	
+|         If incorrect input is given by user then, print the message "selected option unavailable"                                    |	
 |--------|-------------------------------------|------------------------------|-----------------------------|
