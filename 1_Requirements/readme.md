@@ -68,7 +68,7 @@ The problem was known because of the inconvinience it caused to staff, managemen
 # Detail Requirements
 # High Level Requirements
 |ID  | Description                                         |                         |
-
+|----|------------------------------------------------------|-------------------------|
 |NH01	|The admin should be able to add new student records |	Technical-Implemented  |
 
 |NH 02	|The admin should be able to update the student records	|Technical-Implemented  |
@@ -84,6 +84,6 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |NH07	|There should be no data loss in case of system failure	Future|
 
 |NH08	|There should be no data breach or leakage and the data should be safe|	Future |
-
+|----|------------------------------------------------------|-------------------------|
 # Low Level Requirements
 in detailed here
