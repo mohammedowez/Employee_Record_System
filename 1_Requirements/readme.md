@@ -70,13 +70,12 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |ID  | Description                                         |                         |
 |----|------------------------------------------------------|-------------------------|
 |HR01	|The admin should be able to add new   Employee records |	Technical-Implemented  |
-|----|------------------------------------------------------|-------------------------|
+
 
 # Low Level Requirements
 |ID	  |Description	                   |HLR-ID                     |                      Status|
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR01	 |New Records shall be added by providing all the asked Employee Details.|  HR01	  | Implemented |
-|--------|-------------------------------------|------------------------------|-----------------------------|
 
                                     
 
