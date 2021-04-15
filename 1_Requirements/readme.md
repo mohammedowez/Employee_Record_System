@@ -69,26 +69,35 @@ The problem was known because of the inconvinience it caused to staff, managemen
 # High Level Requirements
 |ID  | Description                                         |                         |
 |----|------------------------------------------------------|-------------------------|
-|NH01	|The admin should be able to add new   Employee records |	Technical-Implemented  |
+|HR01	|The admin should be able to add new   Employee records |	Technical-Implemented  |
 |----|------------------------------------------------------|-------------------------|
-|NH 02	|The admin should be able to update the  Employee records|Technical-Implemented  |
+|HR02	|The admin should be able to update the  Employee records|Technical-Implemented  |
 |----|------------------------------------------------------|-------------------------|
-|NH03	|The admin should be able to delete the  Employee records	|Technical-Implemented  |
+|HR03	|The admin should be able to delete the  Employee records	|Technical-Implemented  |
 |----|------------------------------------------------------|-------------------------|
-|NH04	|The admin should be able to read the  Employee records	|Technical-Implemented  |
+|HR04	|The admin should be able to read the  Employee records	|Technical-Implemented  |
 |----|------------------------------------------------------|-------------------------|
-|NH05	|The admin should be able to save the  Employee record to file|	Technical-Implemented |
+|HR05	|The admin should be able to save the  Employee record to file|	Technical-Implemented |
 |----|------------------------------------------------------|-------------------------|
-|NH06	|The admin shoould be able to read  Employee data from the file|	Technical-Implemented |
+|HR06	|The admin shoould be able to read  Employee data from the file|	Technical-Implemented |
 |----|------------------------------------------------------|-------------------------|
-|NH07	|There should be no data loss in case of system failure	Future|
+|HR07	|There should be no data loss in case of system failure	Future|
 |----|------------------------------------------------------|-------------------------|
-|NH08	|There should be no data breach or leakage and the data should be safe|	Future |
+|HR08	|There should be no data breach or leakage and the data should be safe|	Future |
 |----|------------------------------------------------------|-------------------------|
 # Low Level Requirements
-|ID	|Description	|ERS-ID	|Status|
-LR01	New Records shall be added by providing all the asked information and the roll no. should be unique or else student record should not be accepted	HR01	Implemented
-LR02	If user searches for an invalid Roll no. ,"no record found!" message should be displayed	HR04	Implemented
-LR03	To modify a record, user needs to search by name, if no record found, print the message"no record found" else if modification is successful then print "modification successful"	HR02	Implemented
-LR04	User needs to search by name for the student to delete the record. If no record is found then display the message "no record found"	HR03	Implemented
-LR05	when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). If incorrect input is given by user then, print the message "selected option unavailable"	HRxx	Implemented
+|ID	  |Description	                   |HLR-ID                     |                      Status|
+
+|LR01	|New Records shall be added by providing all the asked Employee Details.|  HR01	  | Implemented |
+should be unique or else student record should not be accepted	
+
+|LR02	|If user searches for an invalid Id. ,"no record found!" message should be displayed	 |HR04	|Implemented|
+
+|LR03	|To modify a record, user needs to search by name, if no record found, print the message"no record found" |HR02	|Implemented|
+       | else if modification is successful then print "modification successful"|
+       
+|LR04	|User needs to search by name for the Employee to delete the record. |                 |  HR03	|Implemented |
+       |If no record is found then display the message "no record found"	|
+
+|LR05	|when the system is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). | HRxx	|Implemented|
+         |If incorrect input is given by user then, print the message "selected option unavailable"|	
