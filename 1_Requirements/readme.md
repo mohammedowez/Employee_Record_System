@@ -37,6 +37,7 @@ The calculations are automated so no chance of error.
 # Defining Our System
 The purpose of this document is to describe the functionality and specifications of the design of a Managing Employees. The expected audiences of this document are the developers and the admin. Now with the help of this system the admin has the information on his finger tips and can easily prepare a good record based on their requirements. Finally, we can say that this system will not only automate the process but save the valuable time of the manager or the admin, which can be well utilized buy his company. This will be an additional advantage and management of power based on their free time from his normal duty
 ![download](https://user-images.githubusercontent.com/59692344/114857681-2dc7e700-9e06-11eb-9561-ee5e5de6af14.jpg)
+**asdgasd**
 
 # SOWT Analysis
 
