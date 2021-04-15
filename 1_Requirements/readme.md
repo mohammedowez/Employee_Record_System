@@ -89,11 +89,12 @@ The problem was known because of the inconvinience it caused to staff, managemen
 |ID	  |Description	                   |HLR-ID                     |                      Status|
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR01	 |New Records shall be added by providing all the asked Employee Details.|  HR01	  | Implemented |
-
 |--------|-------------------------------------|------------------------------|-----------------------------|
 |LR02	 |If user searches for an invalid Id. ,"no record found!" message should be displayed	 |HR04	|Implemented|
+
 |--------|-------------------------------------|------------------------------|-----------------------------|
-|LR03	 |To modify a record, user needs to search by name, if no record found, print the message"no record found" |HR02	|Implemented                                                     
+
+|LR03	 |To modify a record, user needs to search by name, if no record found,  |HR02	|Implemented                                                     
  |--------|-------------------------------------|------------------------------|-----------------------------|      
 |LR04	 |User needs to search by name for the Employee to delete the record. |                 |  HR03	|Implemented |                                             |
 |--------|-------------------------------------|------------------------------|-----------------------------|
