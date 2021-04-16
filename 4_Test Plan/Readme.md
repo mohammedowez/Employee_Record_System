@@ -6,3 +6,5 @@
 |Test ID|	Description	|Exp i/p|	Exp o/p|	Actual o/p	|Types of Test|
 | ------|------- | ------------|--------|--------------|------------ |
 |H_01|	something	|asdf	|asdf	|asdf|	Requirement|
+| ------|------- | ------------|--------|--------------|------------ |
+|H_02| something |asdf|asdf|asdf|Requirement|
