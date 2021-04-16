@@ -31,5 +31,5 @@
 1. [how to Makefile]
 (https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)
 
-2. about git
+2. About git
 https://git-scm.com/docs/gittutorial
