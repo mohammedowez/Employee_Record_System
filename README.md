@@ -25,3 +25,7 @@
 |PS No.|	Name	|Features|	Issuess Raised|	Issues Resolved	|No Test Cases	|Test Case Pass|
 |------|  ------ | ------| ---------------| --------------- |---------------|--------------|
 |265481	|Mohammed Owez |	Create, Update, Delete, Read, Search Student Record|	2	|2|	2|	1
+
+
+# Learning Resources
+https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
