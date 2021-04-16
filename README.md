@@ -18,3 +18,10 @@
 |3_Implementation	|All code and documentation|
 |-----------------|--------------------------|
 |4_Test_plan	|Documents with test plans and procedures|
+
+
+# Contributors List and Summary
+
+|PS No.|	Name	|Features|	Issuess Raised|	Issues Resolved	|No Test Cases	|Test Case Pass|
+
+|265481	|Mohammed Owez |	Create, Update, Delete, Read, Search Student Record|	2	|2|	2|	1
